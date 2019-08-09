@@ -3,11 +3,13 @@
 ### Inicio del proyecto
 For further reference, please consider the following sections:
 
+*
 * (Java jdk 11)
 * (IDE eclipse, Intellij Idea o STS spring tool suite)
 * (Github o git)
 * (Angular)
 * (Postgresql 11)
+*
 
 ### Reference Documentation
 For further reference, please consider the following sections:
